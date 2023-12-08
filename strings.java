@@ -111,11 +111,11 @@ public class strings {
         
         
         repeat_counter(bnsl);
-        // System.out.println(name.charAt(2));
-        // sc.close();
-        // print_letter(name);
-        // System.out.println(palindrome(name));
-        // System.out.println(lower_vowel_check(name));
+
+        System.out.println(name.charAt(2));
+        print_letter(name);
+        System.out.println(palindrome(name));
+        System.out.println(lower_vowel_check(name));
 
     }
     
