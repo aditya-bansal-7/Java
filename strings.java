@@ -116,6 +116,8 @@ public class strings {
         print_letter(name);
         System.out.println(palindrome(name));
         System.out.println(lower_vowel_check(name));
+        System.out.println(lower_vowel_check(adi));
+        System.out.println(lower_vowel_check(name2));
 
     }
     
