@@ -34,7 +34,10 @@ public class Bit_Manipulation {
     }
 
     public static int clear_range_bits(int k , int min , int max){
-        int bitMask = (~0) << ;
+        int bitMask1 = (~0) << max+1;
+        int bitMask2 = (2^(min - 1)) -1;
+        int bitMask = bitMask1 | bitMask2;
+        return k & bitMask;
 
     }
 
@@ -48,7 +51,55 @@ public class Bit_Manipulation {
         int bitMask = ~(1 << i);
         return k & bitMask;
     }
+
+    public static boolean check_2th_power(int k) {
+        if ((k & (k-1)) == 0) {
+            return true;
+        }else{
+            return false;
+        }
+        
+    }
+
+    public static int set_bit_count(int k){
+        // time complexity = 0(logn)
+        int count = 0;
+        while (k>0) {
+            if ((k & 1) == 1) {
+                count++;
+            }
+            k = k >> 1;
+        }
+        return count;
+    }
+
+    public static int fast_exponent(int base , int power){
+        int ans = 1;
+        while (power > 0) {
+            if ((power & 1 ) != 0) {
+                ans = ans * base;
+            }
+            base = base*base;
+            power = power >> 1;
+        }
+        return ans;
+    }
+    
+    public static void value(int k){
+        System.out.println(k);
+    }
+
+    public static void swapping_using_xor(int x , int y){
+        x = x ^ y;
+        y = x ^ y;
+        x = x ^ y;
+        value(x);
+        value(y);
+
+
+    }
+    
     public static void main(String[] args) {
-        System.out.println(clear_last_ith_bit(15, 2));
+        swapping_using_xor(20, 30);
     }
 }
