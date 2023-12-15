@@ -99,7 +99,21 @@ public class Bit_Manipulation {
 
     }
     
+
+    public static int getFirstSetBit(int n){
+        int first = 1;
+        if (n==0){
+            return 0 ;
+        }
+        while((n & 1) == 0){
+            first++;
+            n = n>>1;
+        }
+        return first;   
+    }
+
+
     public static void main(String[] args) {
-        swapping_using_xor(20, 30);
+        getFirstSetBit(11);
     }
 }
