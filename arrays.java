@@ -33,6 +33,15 @@ public class arrays {
         }System.out.println(maxsum);
     }
 
+    public static int missingNumber(int array[], int n) {
+        int sum = n*(n+1)/2;
+        
+        for (int a : array){
+            sum = sum - a;
+        }
+        return sum;
+    }
+
     public static void main(String[] args) {
         // int number[] = {2,4,6,8,10};
         int number[] = {1,-2,6,-1,3};
