@@ -135,6 +135,26 @@ public class Bit_Manipulation {
         }
         return mx;
     }
+    public static int[] evenOddBit(int n) {
+        int even_count = 0;
+        int odd_count = 0;
+        int index = 0;
+        while(n!=0){
+            if ((n&1) == 1){
+                if(index % 2 == 0){
+                    even_count++;
+                }else{
+                    odd_count++;
+                }
+            }
+            index++;
+            n = n >> 1;
+        }
+        int res[] = new int[2];
+        res[0] = even_count;
+        res[1] = odd_count;
+        return res;
+    }
 
     public static void main(String[] args) {
         System.out.println(binaryGap(5049));
