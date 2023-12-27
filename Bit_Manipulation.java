@@ -112,8 +112,31 @@ public class Bit_Manipulation {
         return first;   
     }
 
+    public static int binaryGap(int n) {
+        String s="";
+        int t=n;
+        while(t>0)
+        {
+            int r=t%2;
+            s=s+r+"";
+            t=t/2;
+        }
+        
+        int mx=0;
+        int start=s.indexOf('1');
+        for(int i=0;i<s.length();i++)
+        {
+
+            if(s.charAt(i)=='1')
+            {
+                    mx=Math.max(mx,i-start);
+                    start=i;
+            }
+        }
+        return mx;
+    }
 
     public static void main(String[] args) {
-        getFirstSetBit(11);
+        System.out.println(binaryGap(5049));
     }
 }
