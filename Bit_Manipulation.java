@@ -1,3 +1,5 @@
+import java.util.List;
+
 /**
  * Bit_Manipulation
  */
@@ -154,6 +156,15 @@ public class Bit_Manipulation {
         res[0] = even_count;
         res[1] = odd_count;
         return res;
+    }
+    public static int sumIndicesWithKSetBits(List<Integer> nums, int k) {
+        int sum = 0;
+        for(int i = 0 ; i<nums.size() ; i++){
+            if ( k == set_bit_count(i)){
+                sum = sum + nums.get(i);
+            }
+        }
+        return sum;
     }
 
     public static void main(String[] args) {
