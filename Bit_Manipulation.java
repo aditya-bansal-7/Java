@@ -167,7 +167,7 @@ public class Bit_Manipulation {
         }
         return sum;
     }
-    public int[] sortByBits(int[] arr) {
+    public static int[] sortByBits(int[] arr) {
         Arrays.sort(arr);
         int res[] = new int[arr.length];
         int index = 0;
@@ -183,6 +183,18 @@ public class Bit_Manipulation {
             set_count++;
         }
         return res;
+    }
+
+    public int minBitFlips(int start, int goal) {
+        int bitmask = start ^ goal;
+        int count = 0;
+        while(bitmask != 0){
+            if((bitmask%2)==1){
+                count++;
+            }
+            bitmask >>= 1;
+        }
+        return count;
     }
 
     public static void main(String[] args) {
