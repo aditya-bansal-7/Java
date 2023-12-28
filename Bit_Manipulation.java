@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -165,6 +166,23 @@ public class Bit_Manipulation {
             }
         }
         return sum;
+    }
+    public int[] sortByBits(int[] arr) {
+        Arrays.sort(arr);
+        int res[] = new int[arr.length];
+        int index = 0;
+        int set_count = 0;
+        while(index<arr.length){
+            for(int i = 0; i < arr.length ; i++){
+                if(set_bit_count(arr[i])==set_count){
+                    res[index] = arr[i];
+                    index++;
+                    arr[i] = 0;
+                }
+            }
+            set_count++;
+        }
+        return res;
     }
 
     public static void main(String[] args) {
