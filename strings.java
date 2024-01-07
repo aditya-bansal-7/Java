@@ -18,6 +18,27 @@ public class strings {
         return true;
     }
 
+    public static int lengthOfLongestSubstring(String s) {
+        int count = 0;
+        int first = 0;
+        int second = 1;
+
+        while (first < (s.length()-1)) {
+            if (s.charAt(first) == s.charAt(second)) {
+                count = Math.max(second-first,count);
+                first++;
+                second = first+1;
+            }else if (second == (s.length() - 1)){
+                first++;
+                second = first+1;
+            }
+            else{
+                second++;
+            }
+        }
+        return count;
+    }
+
     public static float shortest_path(String str){
         int x = 0 , y = 0;
         for(int i =0 ; i<str.length();i++){
@@ -100,24 +121,8 @@ public class strings {
     
     
     public static void main(String[] args) {
-        String adi = "Aditya";
-        String bnsl = "Bansal";
-        // Scanner sc = new Scanner(System.in);
-        String name = "racecar";
-
-        String name2 = "Carrace";
-
-        
-        
-        repeat_counter(bnsl);
-
-        System.out.println(name.charAt(2));
-        print_letter(name);
-        System.out.println(palindrome(name));
-        System.out.println(lower_vowel_check(name));
-        System.out.println(lower_vowel_check(adi));
-        System.out.println(lower_vowel_check(name2));
-
+        String adi = "bbbbb";
+        System.out.println(lengthOfLongestSubstring(adi));
     }
     
 }

@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 
+
 /**
  * Bit_Manipulation
  */
@@ -196,7 +197,6 @@ public class Bit_Manipulation {
         }
         return count;
     }
-
     public static void main(String[] args) {
         System.out.println(binaryGap(5049));
     }
