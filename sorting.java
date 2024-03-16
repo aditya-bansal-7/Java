@@ -59,7 +59,7 @@ public class sorting {
         int k = 0;
 
         while (i <=mid && j <= ei) {
-            if (arr[i] < arr[j]) {
+            if (arr[i] <= arr[j]) {
                 temp[k] = arr[i];
                 i++;
             }else{
@@ -81,6 +81,34 @@ public class sorting {
 
     }
 
+    public static void quickSort(int[] arr, int si , int ei){
+        if (si >= ei){
+            return;
+        }
+        int pidx = partition(arr,si,ei);
+        quickSort(arr, si, pidx-1);
+        quickSort(arr, pidx+1, ei);
+    }
+
+    public static int partition(int[] arr , int si , int ei){
+        int i= si-1;
+        int pivit = arr[ei];
+
+        for(int j = si; j< ei; j++){
+            if (arr[j] <= pivit) {
+                i++;
+                int temp = arr[j];
+                arr[j] = arr[i];
+                arr[i] = temp;
+            }
+        }
+        i++;
+        int temp = pivit;
+        arr[ei] = arr[i];
+        arr[i] = temp;
+        return i;
+    }
+
 
     public static void printArr(int[] arr){
         for (int i = 0; i < arr.length; i++) {
@@ -89,8 +117,8 @@ public class sorting {
     }
 
     public static void main(String[] args) {
-        int nums[] = {2,4,6,7,11,3,2,-1};
-        mergeSort(nums , 0 , nums.length-1);
+        int[] nums = {1,4,2,5,2,6,4,30};
+        quickSort(nums , 0 , nums.length-1);
         printArr(nums);
     }
 }
