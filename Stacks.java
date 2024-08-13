@@ -37,8 +37,66 @@ public class Stacks {
         return str.toString();
     }
 
+    public class MinStack {
+
+        public void push(int val) {
+        
+        }
+        
+        public void pop() {
+            
+        }
+        
+        public int top() {
+            return 0;
+        }
+        
+        public int getMin() {
+            return 0;
+        }
+
+        public static void main(String[] args) {
+            
+        }
+    }
     
 
+    public int evalRPN(String[] tokens) {
+        Stack<Integer> s = new Stack<>();
+
+        for(int i = 0 ; i < tokens.length ; i++){
+            if (tokens[i].equals("+")){
+                int num1 = s.pop();
+                int num2 = s.pop();
+                s.push(num2 + num1);
+                continue;
+            }
+            if (tokens[i].equals("-")){
+                int num1 = s.pop();
+                int num2 = s.pop();
+                s.push(num2 - num1);
+                continue;
+            }
+            if (tokens[i].equals("*")){
+                int num1 = s.pop();
+                int num2 = s.pop();
+                s.push(num2 * num1);
+                continue;
+            }
+            if (tokens[i].equals("/")){
+                int num1 = s.pop();
+                int num2 = s.pop();
+                s.push(num2 / num1);
+                continue;
+            }
+            s.push(Integer.parseInt(tokens[i]));
+
+
+        }
+        return s.peek();
+
+    }
+    
     public static void main(String[] args) {
         String s = "/home/";
         
