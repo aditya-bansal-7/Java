@@ -97,8 +97,7 @@ public class backtracking {
     public static void main(String[] args) {
         String ad = "";
         int a = 1,b=3;
-        ad = ad + Character.forDigit(a, 10);
-        ad = ad + Character.forDigit(b, 10);
+        ad = ad + String.valueOf(a);
         findAllpurmutaion(ad, "");
     }
 }

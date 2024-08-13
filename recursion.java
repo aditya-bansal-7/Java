@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class recursion {
 
     public static void print_decreasing(int n){
@@ -38,7 +40,24 @@ public class recursion {
         return fibonacci(n-1) + fibonacci(n-2);
     }
 
+
+    //Sum triangle from array
+    public static void printSumOfTriangle(int[] arr){
+        if (arr.length == 1) {
+            Arrays.toString(arr);
+            return;
+        }
+        int[] new_arr = new int[arr.length - 1];
+
+        for(int i=0;i<arr.length - 1;i++){
+            new_arr[i] = arr[i] + arr[i+1];
+        }
+
+        printSumOfTriangle(new_arr);
+        System.out.println(Arrays.toString(arr));
+    }
     public static void main(String[] args) {
-        System.out.println(fibonacci(5));
+        int[] arrr = {1,2,3,4,5};
+        printSumOfTriangle(arrr);
     }
 }
