@@ -13,6 +13,23 @@ public class arrays {
             }System.out.println();
         }
     }
+    public static void rotate(int[] nums, int k) {
+        k %= nums.length;
+        int index = 0;
+        int ans[] = new int[nums.length];
+        for (int i = nums.length - k; i < nums.length; i++) {
+            ans[index] = nums[i];
+            index++;
+        }
+        for (int i = 0; i < nums.length - k; i++) {
+            ans[index] = nums[i];
+            index++;
+        }
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = ans[i];
+        }
+    
+    }
     
     public static void maxsum(int number[]) {
         int maxsum = 0;
