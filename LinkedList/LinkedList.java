@@ -1,16 +1,10 @@
-package LinkedList;
-/**
- * LinkedList
- */
 public class LinkedList {
 
     public Node head;
     public Node tail;
     public int size = 0;
 
-    /**
-     * Node
-     */
+    
     public class Node {
         int data;
         Node next;
