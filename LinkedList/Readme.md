@@ -9,5 +9,8 @@
 <hr>
 <ul>
     <li> Delete the Middle Node of a Linked List --> <a target="_blank" href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list"> LeetCode 2095 </a></li>
+    <li> Remove Nth Node From End of List --> <a target="_blank" href="https://leetcode.com/problems/remove-nth-node-from-end-of-list"> LeetCode 19 </a></li>
+    <li> Rotate List --> <a target="_blank" href="https://leetcode.com/problems/rotate-list/"> LeetCode 61 </a></li>
+    <li> Add Two Numbers --> <a target="_blank" href="https://leetcode.com/problems/add-two-numbers"> LeetCode 2 </a></li>
 </ul>
 </details>
