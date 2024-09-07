@@ -12,5 +12,6 @@
     <li> Remove Nth Node From End of List --> <a target="_blank" href="https://leetcode.com/problems/remove-nth-node-from-end-of-list"> LeetCode 19 </a></li>
     <li> Rotate List --> <a target="_blank" href="https://leetcode.com/problems/rotate-list/"> LeetCode 61 </a></li>
     <li> Add Two Numbers --> <a target="_blank" href="https://leetcode.com/problems/add-two-numbers"> LeetCode 2 </a></li>
+    <li> Remove Duplicates from Sorted List --> <a target="_blank" href="https://www.codechef.com/practice/course/linked-lists/LINKLISTF/problems/PREP55"> Code Chef </a></li>
 </ul>
 </details>
