@@ -13,5 +13,6 @@
     <li> Rotate List --> <a target="_blank" href="https://leetcode.com/problems/rotate-list/"> LeetCode 61 </a></li>
     <li> Add Two Numbers --> <a target="_blank" href="https://leetcode.com/problems/add-two-numbers"> LeetCode 2 </a></li>
     <li> Remove Duplicates from Sorted List --> <a target="_blank" href="https://www.codechef.com/practice/course/linked-lists/LINKLISTF/problems/PREP55"> Code Chef </a></li>
+    <li> Split Linked List in Parts --> <a target="_blank" href="https://leetcode.com/problems/split-linked-list-in-parts"> LeetCode 725 </a></li>
 </ul>
 </details>
