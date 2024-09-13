@@ -71,7 +71,45 @@ public class DoubleLinkedList {
         System.out.println("START");
     }
 
-    
+    public Node find(int val){
+
+        Node temp = head;
+
+        while (temp != null) {
+            if (temp.data == val) {
+                return temp;
+            }
+            temp = temp.next;
+        }
+        return null;
+    }
+
+    public void insert(int data, int after){
+        
+        
+        Node node = find(after);
+
+        if (node == null) {
+            System.out.println("does not exist");
+            return;
+        }
+
+        Node newNode = new Node(data);
+
+        newNode.next = node.next;
+
+        newNode.pre = node;
+
+        if (node.next != null) {
+            node.next.pre = newNode;
+        }
+        
+        node.next = newNode;
+
+        
+        
+    }
+
     public static void main(String[] args) {
         DoubleLinkedList DLL = new DoubleLinkedList();
 
