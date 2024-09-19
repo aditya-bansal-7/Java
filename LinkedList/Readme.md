@@ -16,5 +16,7 @@
     <li> Split Linked List in Parts --> <a target="_blank" href="https://leetcode.com/problems/split-linked-list-in-parts"> LeetCode 725 </a></li>
     <li> Spiral Matrix IV --> <a target="_blank" href="https://leetcode.com/problems/spiral-matrix-iv/"> LeetCode 2326 </a></li>
     <li> Reverse Linked List --> <a target="_blank" href="https://leetcode.com/problems/reverse-linked-list/"> LeetCode 206 </a></li>
+    <li> Insert Greatest Common Divisors in Linked List --> <a target="_blank" href="https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/"> LeetCode 2807 </a></li>
+    
 </ul>
 </details>
