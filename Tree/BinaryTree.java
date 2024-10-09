@@ -22,6 +22,29 @@ class BinaryTree {
     // insert elements
 
 
+    public void prettyDisplay() {
+        prettyDisplay(root, 0);
+    }
+
+    private void prettyDisplay(Node node , int level){
+        if (node == null) {
+            return;
+        }
+
+        prettyDisplay(node.right , level + 1);
+
+        if (level != 0) {
+            for (int i = 0; i < level - 1; i++) {
+                System.out.print("|\t\t");
+            }
+            System.out.println("|------>" + node.val);
+        }else{
+            System.out.println(node.val);
+        }
+
+        prettyDisplay(node.left, level + 1);
+    }
+
     public void populate(Scanner sc){
         System.out.println("Enter the root Node: ");
         int val = sc.nextInt();
@@ -46,5 +69,15 @@ class BinaryTree {
             populate(sc,node.right);
 
         }
+    }
+
+    public static void main(String[] args) {
+        BinaryTree tree = new BinaryTree();
+
+        Scanner sc = new Scanner(System.in);
+        tree.populate(sc);
+        tree.prettyDisplay();
+
+        
     }
 }
