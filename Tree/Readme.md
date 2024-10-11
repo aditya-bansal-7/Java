@@ -18,3 +18,13 @@
 </ul>
 
 </details>
+
+### Traversal
+
+<details>
+<summary>Types of Traversal</summary>
+<ul>
+    <li><h4>Pre-order traversal</h4></br><p>N -> L -> R</p></li>
+    <li><h4>In-order traversal</h4></br><p>L -> N -> R </p></li>
+    <li><h4>Post-order traversal</h4></br><p>L -> R -> N</p></li>
+</ul>
