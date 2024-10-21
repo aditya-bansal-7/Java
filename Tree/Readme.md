@@ -28,3 +28,16 @@
     <li><h4>In-order traversal</h4><p>L -> N -> R </p></li>
     <li><h4>Post-order traversal</h4><p>L -> R -> N</p></li>
 </ul>
+</details>
+
+### Questions
+<details>
+<summary>Question i attempt in Trees </summary>
+<hr>
+<ul>
+    <li> Symmetric Tree --> <a target="_blank" href="https://leetcode.com/problems/symmetric-tree/description/"> LeetCode 101 </a></li>
+    <li> Invert Binary Tree --> <a target="_blank" href="https://leetcode.com/problems/invert-binary-tree/"> LeetCode 226 </a></li>
+    <li> Maximum Depth of Binary Tree --> <a target="_blank" href="https://leetcode.com/problems/maximum-depth-of-binary-tree/"> LeetCode 104 </a></li>
+    <li> Same Tree --> <a target="_blank" href="https://leetcode.com/problems/same-tree/description"> LeetCode 100 </a></li>
+</ul>
+</details>
