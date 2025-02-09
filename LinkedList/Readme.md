@@ -17,6 +17,8 @@
     <li> Spiral Matrix IV --> <a target="_blank" href="https://leetcode.com/problems/spiral-matrix-iv/"> LeetCode 2326 </a></li>
     <li> Reverse Linked List --> <a target="_blank" href="https://leetcode.com/problems/reverse-linked-list/"> LeetCode 206 </a></li>
     <li> Insert Greatest Common Divisors in Linked List --> <a target="_blank" href="https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/"> LeetCode 2807 </a></li>
+    <li> Remove Duplicates from Sorted List II --> <a target="_blank" href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/"> LeetCode 82 </a></li>
+    <li> Reverse Linked List II --> <a target="_blank" href="https://leetcode.com/problems/reverse-linked-list-ii/description/"> LeetCode 92 </a></li>
     
 </ul>
 </details>
