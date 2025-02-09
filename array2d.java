@@ -145,12 +145,55 @@ public class array2d {
         return false;
     }
 
+    public static void merge(int[] arr, int st, int ed, int mid) {
+        
+        int[] temp = new int[ed - st + 1];
+
+        int i = st;
+        int j = mid+1;
+        int k = 0;
+
+        while(i <= mid && j <= ed){
+            if(arr[i] < arr[j]){
+                temp[k++] = arr[i++];
+            }else{
+                temp[k++] = arr[j++];
+            }
+        }
+
+        while(i <= mid){
+            temp[k++] = arr[i++];
+        }
+
+        while(j <= ed){
+            temp[k++] = arr[j++];
+        }
+
+        for(i = 0; i < temp.length; i++){
+            arr[st++] = temp[i];
+        }
+    }
+
+
+    public static void MergeSort(int[] arr , int st, int ed){
+        if(st >= ed){
+            return;
+        }
+
+        int mid = st + ((ed - st) / 2);
+
+        MergeSort(arr, st, mid);
+        MergeSort(arr, mid + 1, ed);        
+        merge(arr,st,ed,mid);
+    }
 
     public static void main(String[] args) {
-        int arr[][] = fill_arr2d_by_numbers(5);
-        // int arr[][] = {{1,2,3},{4,5,6}};
-        // int tarr[][] = transpose(arr);
-        printArr2D(arr);
-        staircase_search(arr, 17);
+        int arr[] = {2,4,2,14,5,3,2,5,6,7,87,2};
+
+        MergeSort(arr, 0, arr.length - 1);
+
+        arrays.printArr(arr);
+
     }
+    
 }

@@ -1,6 +1,40 @@
-import java.util.Stack;
+import java.util.ArrayList;
+// import java.util.Stack;
 
 public class Stacks {
+
+    public class Stack<T> {
+        private int top;
+        private ArrayList<T> arr;
+
+        public Stack() {
+            this.top = -1;
+            this.arr = new ArrayList<>();
+        }
+
+        public boolean empty() {
+            return top < 0; 
+        }
+
+        public void push(T data) {
+            arr.add(++top, data);
+        }
+
+        public T pop() throws Exception {
+            if (empty()) {
+                throw new Exception("Stack Underflow");
+            }
+            return arr.remove(top--);
+        }
+
+        public T peek() throws Exception {
+            if (empty()) {
+                throw new Exception("Stack is empty");
+            }
+            return arr.get(top);
+        }
+    }
+
 
     public static String simplifyPath(String path) {
         Stack<String> s = new Stack<>();

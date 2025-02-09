@@ -57,12 +57,7 @@ public class Bit_Manipulation {
     }
 
     public static boolean check_2th_power(int k) {
-        if ((k & (k-1)) == 0) {
-            return true;
-        }else{
-            return false;
-        }
-        
+        return ((k & (k-1)) == 0);
     }
 
     public static int set_bit_count(int k){
