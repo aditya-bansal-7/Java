@@ -31,6 +31,7 @@ class index {
 
         public void deletePeak(){
             arr.set(0,arr.get(arr.size() - 1));
+            arr.remove(arr.size()-1);
             int i = 0;
             while( arr.get(i) > arr.get(2*i + 1) || arr.get(i) > arr.get(2*i + 2)){
                 if( arr.get(i) > arr.get(2*i + 1) ){
