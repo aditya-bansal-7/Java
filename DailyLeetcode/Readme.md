@@ -12,3 +12,4 @@ A collection of my daily LeetCode solutions with explanations.
 | 2025-02-13 | [3066. Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | Medium | [Solution](./3066-minOperations.java) |
 | 2025-02-14 | [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | [Solution](./1352-ProductOfNumbers.java) |
 | 2025-02-15 | [2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | Medium | [Solution](./1352-ProductOfNumbers.java) |
+| 2025-02-16 | [1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | Medium | [Solution](./1718-constructDistancedSequence.java) |

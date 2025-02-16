@@ -186,6 +186,50 @@ public class array2d {
         MergeSort(arr, mid + 1, ed);        
         merge(arr,st,ed,mid);
     }
+    public boolean isValidSudoku(char[][] board) {
+        // row wise check
+        for(int i=0 ; i < 9 ; i++){
+            for(int j=0 ; j<9 ; j++){
+                if(board[i][j] == '.'){
+                    continue;
+                }else if (!is_row_col_wise(board,i,j,board[i][j])){
+                    System.out.println("here");
+                    return false;
+                }else if (!is_box_wise(board,i,j,board[i][j])){
+                    System.out.println("not here");
+
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+
+    private boolean is_row_col_wise(char[][] board, int row , int col , char digit){
+
+        for(int i = 0 ; i < 9 ; i++){
+            if(board[i][col] == digit && i != row ){
+                return false;
+            }
+            if(board[row][i] == digit && i != col ){
+                return false;
+            }
+        }
+        return true;
+    }
+
+    private boolean is_box_wise(char[][] board, int row, int col, char digit){
+        int i = 3*(row / 3);
+        int j = 3*(col / 3);
+        for(int k = i; k < i+ 3; k++){
+            for(int l = j; l < j+3; l++){
+                if(board[k][l] == digit && l != col){
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
 
     public static void main(String[] args) {
         int arr[] = {2,4,2,14,5,3,2,5,6,7,87,2};
