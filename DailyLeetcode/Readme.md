@@ -13,3 +13,4 @@ A collection of my daily LeetCode solutions with explanations.
 | 2025-02-14 | [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | [Solution](./1352-ProductOfNumbers.java) |
 | 2025-02-15 | [2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | Medium | [Solution](./1352-ProductOfNumbers.java) |
 | 2025-02-16 | [1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | Medium | [Solution](./1718-constructDistancedSequence.java) |
+| 2025-02-17 | [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | [Solution](./1079-numTilePossibilities.java) |
