@@ -1,8 +1,10 @@
-
-
 # Daily Leetcode Solutions
 
 A collection of my daily LeetCode solutions with explanations.
+
+## February 2025
+<details>
+<summary>Click to expand</summary>
 
 | Date | Problem | Difficulty | Solution Link |
 |------|---------|------------|---------------|
@@ -14,3 +16,16 @@ A collection of my daily LeetCode solutions with explanations.
 | 2025-02-15 | [2698. Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | Medium | [Solution](./1352-ProductOfNumbers.java) |
 | 2025-02-16 | [1718. Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | Medium | [Solution](./1718-constructDistancedSequence.java) |
 | 2025-02-17 | [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | [Solution](./1079-numTilePossibilities.java) |
+| 2025-02-18 | [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | Medium | [Solution](./2375-smallestNumber.java) |
+
+</details>
+
+## March 2025
+<details>
+<summary>Click to expand</summary>
+
+| Date | Problem | Difficulty | Solution Link |
+|------|---------|------------|---------------|
+
+
+</details>
