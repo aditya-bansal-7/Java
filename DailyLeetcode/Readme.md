@@ -18,6 +18,7 @@ A collection of my daily LeetCode solutions with explanations.
 | 2025-02-17 | [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | Medium | [Solution](./1079-numTilePossibilities.java) |
 | 2025-02-18 | [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | Medium | [Solution](./2375-smallestNumber.java) |
 | 2025-02-19 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | [Solution](./1415-getHappyString.java) |
+| 2025-02-20 | [1980. Find Unique Binary String](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | [Solution](./1980-findDifferentBinaryString.java) |
 
 </details>
 
