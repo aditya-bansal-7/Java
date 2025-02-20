@@ -39,5 +39,7 @@
     <li> Invert Binary Tree --> <a target="_blank" href="https://leetcode.com/problems/invert-binary-tree/"> LeetCode 226 </a></li>
     <li> Maximum Depth of Binary Tree --> <a target="_blank" href="https://leetcode.com/problems/maximum-depth-of-binary-tree/"> LeetCode 104 </a></li>
     <li> Same Tree --> <a target="_blank" href="https://leetcode.com/problems/same-tree/description"> LeetCode 100 </a></li>
+    <li> Construct Binary Tree from Preorder and Inorder Traversal --> <a target="_blank" href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal"> LeetCode 105 </a></li>
+    <li> Construct Binary Tree from Inorder and Postorder Traversal --> <a target="_blank" href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal"> LeetCode 106 </a></li>
 </ul>
 </details>
