@@ -20,6 +20,7 @@ A collection of my daily LeetCode solutions with explanations.
 | 2025-02-19 | [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | [Solution](./1415-getHappyString.java) |
 | 2025-02-20 | [1980. Find Unique Binary String](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium | [Solution](./1980-findDifferentBinaryString.java) |
 | 2025-02-21 | [1261. Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | Medium | [Solution](./1261-FindElements.java) |
+| 2025-02-22 | [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard | [Solution](./1028-recoverFromPreorder.java) |
 
 </details>
 
