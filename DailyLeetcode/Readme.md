@@ -23,6 +23,7 @@ A collection of my daily LeetCode solutions with explanations.
 | 2025-02-22 | [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard | [Solution](./1028-recoverFromPreorder.java) |
 | 2025-02-23 | [889. Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | Medium | [Solution](./889-constructTree.java) |
 | 2025-02-24 | [2467. Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | Medium | [Solution](./889-constructTree.java) |
+| 2025-02-25 | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | [Solution](./1524-numOfSubarrays.java) |
 
 </details>
 
