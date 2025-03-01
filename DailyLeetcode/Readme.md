@@ -6,6 +6,11 @@ A collection of my daily LeetCode solutions with explanations.
 <details>
 <summary>Click to expand</summary>
 
+Total Problems: 19
+</br>Easy: 1
+</br>Medium: 16
+</br>Hard: 2
+
 | Date | Problem | Difficulty | Solution Link |
 |------|---------|------------|---------------|
 | 2025-02-10 | [3174. Clear Digits](https://leetcode.com/problems/clear-digits/) | Easy | [Solution](./3174-ClearDigits.java) |
@@ -26,6 +31,7 @@ A collection of my daily LeetCode solutions with explanations.
 | 2025-02-25 | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | [Solution](./1524-numOfSubarrays.java) |
 | 2025-02-26 | [1749. Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | [Solution](./1749-maxAbsoluteSum.java) |
 | 2025-02-27 | [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | Medium | [Solution](./873-lenLongestFibSubseq.java) |
+| 2025-02-28 | [1092. Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | [Solution](./1092-shortestCommonSupersequence.java) |
 
 </details>
 
@@ -35,6 +41,6 @@ A collection of my daily LeetCode solutions with explanations.
 
 | Date | Problem | Difficulty | Solution Link |
 |------|---------|------------|---------------|
-
+| 2025-03-01 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | [Solution](./2460-applyOperations.java) |
 
 </details>
