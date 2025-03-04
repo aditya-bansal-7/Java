@@ -44,5 +44,6 @@ Total Problems: 19
 | 2025-03-01 | [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | Easy | [Solution](./March/2460-applyOperations.java) |
 | 2025-03-02 | [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | Easy | [Solution](./March/2570-mergeArrays.java) |
 | 2025-03-03 | [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | [Solution](./March/2161-pivotArray.java) |
+| 2025-03-04 | [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | [Solution](./March/1780-checkPowersOfThree.java) |
 
 </details>
