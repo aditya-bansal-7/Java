@@ -47,5 +47,6 @@ Total Problems: 19
 | 2025-03-04 | [1780. Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | Medium | [Solution](./March/1780-checkPowersOfThree.java) |
 | 2025-03-05 | [2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) | Medium | [Solution](./March/2579-coloredCells.java) |
 | 2025-03-06 | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | [Solution](./March/2965-findMissingAndRepeatedValues.java) |
+| 2025-03-07 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium | [Solution](./March/2523-closestPrimes.java) |
 
 </details>
