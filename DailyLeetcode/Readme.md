@@ -49,5 +49,6 @@ Total Problems: 19
 | 2025-03-06 | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | [Solution](./March/2965-findMissingAndRepeatedValues.java) |
 | 2025-03-07 | [2523. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | Medium | [Solution](./March/2523-closestPrimes.java) |
 | 2025-03-08 | [2379. Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy | [Solution](./March/2379-minimumRecolors.java) |
+| 2025-03-18 | [2401. Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/description/) | Medium | [Solution](./March/2401-longestNiceSubarray.java) |
 
 </details>
