@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aditya-bansal-7/Java/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/aditya-bansal-7/Java/tree/master/0120-triangle) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aditya-bansal-7/Java/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/aditya-bansal-7/Java/tree/master/0120-triangle) |
 ## Matrix
 |  |
 | ------- |
