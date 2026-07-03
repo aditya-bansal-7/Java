@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/aditya-bansal-7/Java/tree/master/0064-minimum-path-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/aditya-bansal-7/Java/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/aditya-bansal-7/Java/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
