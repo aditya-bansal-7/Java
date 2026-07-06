@@ -52,8 +52,21 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
+| [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
+## Union-Find
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
+## Graph Theory
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
