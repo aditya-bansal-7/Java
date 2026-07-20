@@ -58,19 +58,23 @@
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
 | [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
 ## Union-Find
 |  |
@@ -106,4 +110,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/aditya-bansal-7/Java/tree/master/0304-range-sum-query-2d-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
