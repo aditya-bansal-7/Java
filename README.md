@@ -8,6 +8,7 @@
 | [0120-triangle](https://github.com/aditya-bansal-7/Java/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aditya-bansal-7/Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aditya-bansal-7/Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0304-range-sum-query-2d-immutable](https://github.com/aditya-bansal-7/Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -36,6 +37,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/aditya-bansal-7/Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aditya-bansal-7/Java/tree/master/0064-minimum-path-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/aditya-bansal-7/Java/tree/master/0304-range-sum-query-2d-immutable) |
 ## Tree
 |  |
 | ------- |
@@ -99,4 +102,8 @@
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-bansal-7/Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/aditya-bansal-7/Java/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
