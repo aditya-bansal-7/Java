@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [0064-minimum-path-sum](https://github.com/aditya-bansal-7/Java/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/aditya-bansal-7/Java/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aditya-bansal-7/Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -92,10 +93,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
