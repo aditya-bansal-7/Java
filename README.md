@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aditya-bansal-7/Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [0064-minimum-path-sum](https://github.com/aditya-bansal-7/Java/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/aditya-bansal-7/Java/tree/master/0120-triangle) |
@@ -100,12 +101,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aditya-bansal-7/Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/aditya-bansal-7/Java/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/aditya-bansal-7/Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
