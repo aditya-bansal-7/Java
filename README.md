@@ -20,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/aditya-bansal-7/Java/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -93,12 +94,14 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/aditya-bansal-7/Java/tree/master/0202-happy-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-bansal-7/Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
+| [0202-happy-number](https://github.com/aditya-bansal-7/Java/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
