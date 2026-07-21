@@ -14,6 +14,7 @@
 | [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -126,4 +127,16 @@
 |  |
 | ------- |
 | [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
+## Stack
+|  |
+| ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
