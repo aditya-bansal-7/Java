@@ -11,6 +11,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aditya-bansal-7/Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aditya-bansal-7/Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -51,6 +52,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aditya-bansal-7/Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aditya-bansal-7/Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
+| [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 ## Matrix
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Memoization
+|  |
+| ------- |
+| [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
 <!---LeetCode Topics End-->
