@@ -12,6 +12,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aditya-bansal-7/Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aditya-bansal-7/Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
 | [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/aditya-bansal-7/Java/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -146,4 +148,12 @@
 |  |
 | ------- |
 | [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
