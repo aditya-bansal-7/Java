@@ -17,6 +17,7 @@
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya-bansal-7/Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/aditya-bansal-7/Java/tree/master/0304-range-sum-query-2d-immutable) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya-bansal-7/Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya-bansal-7/Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
