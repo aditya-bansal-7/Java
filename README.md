@@ -19,6 +19,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya-bansal-7/Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/aditya-bansal-7/Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -119,6 +120,7 @@
 | [0016-3sum-closest](https://github.com/aditya-bansal-7/Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/aditya-bansal-7/Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
