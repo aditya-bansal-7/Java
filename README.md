@@ -14,6 +14,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
 | [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aditya-bansal-7/Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
@@ -63,6 +64,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aditya-bansal-7/Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
 | [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aditya-bansal-7/Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
@@ -120,6 +122,7 @@
 | [0016-3sum-closest](https://github.com/aditya-bansal-7/Java/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/aditya-bansal-7/Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aditya-bansal-7/Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -150,6 +153,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/aditya-bansal-7/Java/tree/master/0646-maximum-length-of-pair-chain) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
