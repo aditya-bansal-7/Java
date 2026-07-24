@@ -16,6 +16,7 @@
 | [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -26,6 +27,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
+| [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -60,6 +62,7 @@
 | [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
+## Binary Search
+|  |
+| ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
 <!---LeetCode Topics End-->
