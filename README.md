@@ -30,6 +30,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/aditya-bansal-7/Java/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/aditya-bansal-7/Java/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -86,6 +87,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
 | [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/aditya-bansal-7/Java/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/aditya-bansal-7/Java/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
@@ -102,10 +104,12 @@
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/aditya-bansal-7/Java/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Graph Theory
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/aditya-bansal-7/Java/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Math
 |  |
 | ------- |
