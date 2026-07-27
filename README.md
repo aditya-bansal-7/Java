@@ -18,6 +18,7 @@
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
+| [1169-invalid-transactions](https://github.com/aditya-bansal-7/Java/tree/master/1169-invalid-transactions) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya-bansal-7/Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aditya-bansal-7/Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -32,6 +33,7 @@
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/aditya-bansal-7/Java/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
+| [1169-invalid-transactions](https://github.com/aditya-bansal-7/Java/tree/master/1169-invalid-transactions) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/aditya-bansal-7/Java/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -131,6 +133,7 @@
 | [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aditya-bansal-7/Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [1169-invalid-transactions](https://github.com/aditya-bansal-7/Java/tree/master/1169-invalid-transactions) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/aditya-bansal-7/Java/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aditya-bansal-7/Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -185,5 +188,6 @@
 ## String
 |  |
 | ------- |
+| [1169-invalid-transactions](https://github.com/aditya-bansal-7/Java/tree/master/1169-invalid-transactions) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/aditya-bansal-7/Java/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 <!---LeetCode Topics End-->
