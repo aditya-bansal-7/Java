@@ -31,6 +31,7 @@
 | [0480-sliding-window-median](https://github.com/aditya-bansal-7/Java/tree/master/0480-sliding-window-median) |
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/aditya-bansal-7/Java/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aditya-bansal-7/Java/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -123,6 +124,7 @@
 | [0018-4sum](https://github.com/aditya-bansal-7/Java/tree/master/0018-4sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya-bansal-7/Java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aditya-bansal-7/Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/aditya-bansal-7/Java/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aditya-bansal-7/Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/aditya-bansal-7/Java/tree/master/0646-maximum-length-of-pair-chain) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/aditya-bansal-7/Java/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
+## String
+|  |
+| ------- |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/aditya-bansal-7/Java/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 <!---LeetCode Topics End-->
