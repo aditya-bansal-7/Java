@@ -79,12 +79,14 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/aditya-bansal-7/Java/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
 | [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/aditya-bansal-7/Java/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/aditya-bansal-7/Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0886-possible-bipartition](https://github.com/aditya-bansal-7/Java/tree/master/0886-possible-bipartition) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/aditya-bansal-7/Java/tree/master/1376-time-needed-to-inform-all-employees) |
 ## Union-Find
 |  |
 | ------- |
