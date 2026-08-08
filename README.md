@@ -19,6 +19,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
 | [1169-invalid-transactions](https://github.com/aditya-bansal-7/Java/tree/master/1169-invalid-transactions) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditya-bansal-7/Java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya-bansal-7/Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/aditya-bansal-7/Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -72,6 +73,7 @@
 | [0740-delete-and-earn](https://github.com/aditya-bansal-7/Java/tree/master/0740-delete-and-earn) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/aditya-bansal-7/Java/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1027-longest-arithmetic-subsequence](https://github.com/aditya-bansal-7/Java/tree/master/1027-longest-arithmetic-subsequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aditya-bansal-7/Java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Matrix
 |  |
 | ------- |
