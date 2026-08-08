@@ -67,6 +67,7 @@
 | [0120-triangle](https://github.com/aditya-bansal-7/Java/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aditya-bansal-7/Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aditya-bansal-7/Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/aditya-bansal-7/Java/tree/master/0233-number-of-digit-one) |
 | [0337-house-robber-iii](https://github.com/aditya-bansal-7/Java/tree/master/0337-house-robber-iii) |
 | [0546-remove-boxes](https://github.com/aditya-bansal-7/Java/tree/master/0546-remove-boxes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/aditya-bansal-7/Java/tree/master/0646-maximum-length-of-pair-chain) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/aditya-bansal-7/Java/tree/master/0202-happy-number) |
+| [0233-number-of-digit-one](https://github.com/aditya-bansal-7/Java/tree/master/0233-number-of-digit-one) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aditya-bansal-7/Java/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya-bansal-7/Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya-bansal-7/Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -192,4 +194,8 @@
 | ------- |
 | [1169-invalid-transactions](https://github.com/aditya-bansal-7/Java/tree/master/1169-invalid-transactions) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/aditya-bansal-7/Java/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/aditya-bansal-7/Java/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
